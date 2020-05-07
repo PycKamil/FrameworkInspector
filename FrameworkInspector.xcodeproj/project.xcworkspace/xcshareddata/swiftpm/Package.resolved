@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Shell",
+        "repositoryURL": "https://github.com/AlwaysRightInstitute/Shell",
+        "state": {
+          "branch": null,
+          "revision": "9982634c51b506d42fcb11b1c85e7ccc145679bd",
+          "version": "0.1.4"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
